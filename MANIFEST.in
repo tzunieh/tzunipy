@@ -1,0 +1,10 @@
+# metadata
+include README.md
+include tests/test_*.py
+exclude scripts/.README
+include package_metadata.json
+
+prune .tox
+prune screwdriver
+graft src
+

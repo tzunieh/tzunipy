@@ -1,0 +1,17 @@
+bleach
+requests
+colored
+filetype
+requests
+selenium
+slugify
+
+[doc_build]
+
+[mypy]
+
+[pep8]
+
+[pylint]
+
+[test]

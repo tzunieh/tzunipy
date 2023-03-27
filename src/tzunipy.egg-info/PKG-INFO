@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: tzunipy
+Version: 0.0.0
+Summary: tzunipy
+Home-page: https://github.com/tzunieh/yo
+Author: "Tzuni(Eva) Hsieh"
+Author-email: tzuni.eh@gmail.com
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/pages/tzunieh/yo
+Project-URL: Source, https://github.com/tzunieh/yo
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Provides-Extra: doc_build
+Provides-Extra: mypy
+Provides-Extra: pep8
+Provides-Extra: pylint
+
+# yo
+Yo my personal toolkit
+
+

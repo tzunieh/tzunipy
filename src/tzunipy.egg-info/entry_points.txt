@@ -1,0 +1,3 @@
+[console_scripts]
+kk = tzunipy.kk_cli:main
+
